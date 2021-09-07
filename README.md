@@ -1,6 +1,8 @@
-# nim
+# Nim
 
-A new Flutter application.
+Nim is a stradegy game between two players where the objective is to leave your opponent with the last tile onscreen as you take turns removing them.
+
+# Rules
 
 ## Getting Started
 
