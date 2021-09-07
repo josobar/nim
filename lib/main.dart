@@ -129,30 +129,6 @@ class Home extends StatelessWidget {
 
                 SizedBox(height: 20),
 
-
-//                SizedBox(height: 20),
-//
-//                ButtonTheme(
-//                  height: screenHeight / 12,
-//                  shape: RoundedRectangleBorder(
-//                      borderRadius: new BorderRadius.circular(20)
-//                  ),
-//                  child: OutlineButton(
-//                    borderSide: BorderSide(
-//                        color: textBorderColor,
-//                        width: 5
-//                    ),
-//                    color: Colors.white,
-//                    child: Padding(
-//                      padding: EdgeInsets.fromLTRB(20, 0, 20, 0),
-//                      child: Text("Settings", style: TextStyle(fontSize: MediaQuery.of(context).size.height / 25, color: textBorderColor)),
-//                    ),
-//                    onPressed: () {
-//                      Navigator.pushNamed(context, "/settings");
-//                    },
-//                  ),
-//                )
-
                 SizedBox(height: 20),
 
                 ButtonTheme(
