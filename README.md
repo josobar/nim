@@ -1,7 +1,8 @@
 # Nim
 
 Nim is a stradegy game between two players where the objective is to leave your opponent with the last tile onscreen as you take turns removing them.
-![nim_title_screen](https://user-images.githubusercontent.com/42105448/132406065-d3e2d2b1-7623-4bed-839f-ebef44339ecb.jpg)
+
+![nim_title_screen](https://user-images.githubusercontent.com/42105448/132406065-d3e2d2b1-7623-4bed-839f-ebef44339ecb.jpg){:height="700px" width="400px"}
 
 # Rules
 
